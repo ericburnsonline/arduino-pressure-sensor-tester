@@ -1,0 +1,23 @@
+# Arduino build files
+build/
+*.hex
+*.elf
+*.bin
+
+# Arduino IDE
+*.ino.eep
+*.ino.hex
+*.ino.with_bootloader.hex
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
